@@ -1,0 +1,5 @@
+19/01/2023
+App Gui
+ - Login Form Created (Integrates backend into SQL and hashes passwords for security).
+ - Basic Menu Navigation Created
+ - Basic Asset Management System Created
